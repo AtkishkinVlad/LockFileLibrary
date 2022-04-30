@@ -1,0 +1,10 @@
+Process with PID 2587 made 3 locks and 2 unlocks. Exited with erorr
+Process with PID 2609 made 2 locks and 1 unlocks. Exited with erorr
+Process with PID 2595 made 2 locks and 1 unlocks. Exited with erorr
+Process with PID 2621 made 2 locks and 1 unlocks. Exited with erorr
+Process with PID 2646 made 1 locks and 0 unlocks. Exited with erorr
+Process with PID 2629 made 3 locks and 2 unlocks. Exited with erorr
+Process with PID 2661 made 2 locks and 1 unlocks. Exited with erorr
+Process with PID 2665 made 1 locks and 0 unlocks. Exited with erorr
+Process with PID 2673 made 1 locks and 0 unlocks. Exited with erorr
+Process with PID 2663 made 62 locks and 61 unlocks. Exited without error
